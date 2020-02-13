@@ -1,2 +1,2 @@
-*.js nodejs and expressjs
-*.ejs ejs template and layout system for nodejs and expressjs
+* linguist-vendored
+*.js linguist-vendored=false
